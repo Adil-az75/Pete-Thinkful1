@@ -42,7 +42,7 @@ hr {
 
 /* Add your solution below */
 
-.image-circle {"pete-thinkful";border-width:2px; color:#003049; border-style:solid; border-radius:50%;}
+.image-circle {"pete-thinkful";border-width:2px; color:#003049; border-stile: solidcolor; border-radius:50%;}
 
 a:link { color:#d62828}
 a:hover { color:#f77f00}
